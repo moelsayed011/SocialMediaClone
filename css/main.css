@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(222, 222, 222);
+}
+.iconpost{
+        right: 20px;
+        bottom: 35px;
+        z-index: 1;
+        cursor: pointer;
+
+    }
+.profiimgee,
+.commantImage,
+#nav-imge{
+        width: 50px;
+        height: 50px;
+        
+    }
+
+
+.card-body{
+    cursor: pointer;
+}
+.num-info{
+    color: rgb(167, 167, 167);
+    font-size: 25px;
+}
+.num-info span{
+    font-size: 55px;
+    font-weight: 400;
+    color: black;
+}
+
+#spanProfile{
+    cursor: pointer;
+}
+.nav-profile{
+    cursor: pointer;
+}
